@@ -1,0 +1,458 @@
+[{
+  "_id": {
+    "$oid": "673304e7f4858343769b05ef"
+  },
+  "nij": 354315,
+  "nama_lengkap": "Bagus Dwi Wicaksono",
+  "tgl_lahir": {
+    "$date": "2003-02-11T17:00:00.000Z"
+  },
+  "no_telp": "082762425461",
+  "alamat": "Jl. Ngagel Jaya Utara No.18",
+  "tgl_mulai_volunteer": {
+    "$date": "2022-09-09T17:00:00.000Z"
+  },
+  "email": "bagusdwisono03@gmail.com",
+  "age": 21
+},
+{
+  "_id": {
+    "$oid": "673304e7f4858343769b05f0"
+  },
+  "nij": 2001345,
+  "nama_lengkap": "Michael Adrian Kurniawan",
+  "tgl_lahir": {
+    "$date": "2003-02-11T17:00:00.000Z"
+  },
+  "no_telp": "082150361239",
+  "alamat": "Jln. Ngagel Jaya Utara No. 18",
+  "tgl_mulai_volunteer": {
+    "$date": "2023-06-14T17:00:00.000Z"
+  },
+  "email": "michaeladrian12@gmail.com",
+  "age": 21
+},
+{
+  "_id": {
+    "$oid": "673304e7f4858343769b05f1"
+  },
+  "nij": 201547830,
+  "nama_lengkap": "Olivia Christin Liem",
+  "tgl_lahir": {
+    "$date": "2001-05-07T00:00:00.000Z"
+  },
+  "no_telp": "082139657281",
+  "alamat": "Jln. Diponegoro No. 22, Wonokromo",
+  "tgl_mulai_volunteer": {
+    "$date": "2023-09-02T17:00:00.000Z"
+  },
+  "email": "oliviachliem@gmail.com",
+  "age": 23
+},
+{
+  "_id": {
+    "$oid": "673304e7f4858343769b05f2"
+  },
+  "nij": 189765413,
+  "nama_lengkap": "Jason Nathaniel Wijaya",
+  "tgl_lahir": {
+    "$date": "2005-04-22T17:00:00.000Z"
+  },
+  "no_telp": "085839102837",
+  "alamat": "Jln. Semolowaru Indah No. 19",
+  "tgl_mulai_volunteer": {
+    "$date": "2023-12-12T00:00:00.000Z"
+  },
+  "email": "jasonwijaya05@gmail.com",
+  "age": 19
+},
+{
+  "_id": {
+    "$oid": "673304e7f4858343769b05f3"
+  },
+  "nij": 201908241,
+  "nama_lengkap": "Amanda Felicia Gunawan",
+  "tgl_lahir": {
+    "$date": "2002-12-10T00:00:00.000Z"
+  },
+  "no_telp": "082167294172",
+  "alamat": "Jln. Pandegiling No. 8, Tegalsari",
+  "tgl_mulai_volunteer": {
+    "$date": "2024-03-06T17:00:00.000Z"
+  },
+  "email": "amandafgunawan10@gmail.com",
+  "age": 22
+},
+{
+  "_id": {
+    "$oid": "673304e7f4858343769b05f4"
+  },
+  "nij": 192713092,
+  "nama_lengkap": "Steven Christoper Halim",
+  "tgl_lahir": {
+    "$date": "1999-12-31T17:00:00.000Z"
+  },
+  "no_telp": "089367319284",
+  "alamat": "Jln. Jemur Andayani VI No. 11",
+  "tgl_mulai_volunteer": {
+    "$date": "2023-07-08T17:00:00.000Z"
+  },
+  "email": "stevenc_halim04@gmail.com",
+  "age": 25
+},
+{
+  "_id": {
+    "$oid": "673304e7f4858343769b05f5"
+  },
+  "nij": 100231421,
+  "nama_lengkap": "Natasha Vania Tan",
+  "tgl_lahir": {
+    "$date": "2001-09-13T17:00:00.000Z"
+  },
+  "no_telp": "082294718390",
+  "alamat": "Jln. Raya Bukit Darmo No. 20",
+  "tgl_mulai_volunteer": {
+    "$date": "2023-10-02T00:00:00.000Z"
+  },
+  "email": "natashatan1409@gmail.com",
+  "age": 23
+},
+{
+  "_id": {
+    "$oid": "673304e7f4858343769b05f6"
+  },
+  "nij": 106789231,
+  "nama_lengkap": "Gabriel Daniel Hutomo",
+  "tgl_lahir": {
+    "$date": "1997-07-26T17:00:00.000Z"
+  },
+  "no_telp": "082289103847",
+  "alamat": "Jln. Pucang Anom Timur No. 33",
+  "tgl_mulai_volunteer": {
+    "$date": "2023-02-20T17:00:00.000Z"
+  },
+  "email": "gabrieldaniel03@gmail.com",
+  "age": 27
+},
+{
+  "_id": {
+    "$oid": "673304e7f4858343769b05f7"
+  },
+  "nij": 139472893,
+  "nama_lengkap": "Felicia Stephanie Koesoma",
+  "tgl_lahir": {
+    "$date": "2000-03-08T17:00:00.000Z"
+  },
+  "no_telp": "082281029384",
+  "alamat": "Jln. Manyar Kertoadi IV No. 10",
+  "tgl_mulai_volunteer": {
+    "$date": "2022-05-31T17:00:00.000Z"
+  },
+  "email": "feliciastephanie09@gmail.com",
+  "age": 24
+},
+{
+  "_id": {
+    "$oid": "673304e7f4858343769b05f8"
+  },
+  "nij": 105464293,
+  "nama_lengkap": "Bryan Hendrata Pranoto",
+  "tgl_lahir": {
+    "$date": "1998-10-03T00:00:00.000Z"
+  },
+  "no_telp": "082281039462",
+  "alamat": "Jln. Ketintang Selatan No. 5",
+  "tgl_mulai_volunteer": {
+    "$date": "2020-05-11T00:00:00.000Z"
+  },
+  "email": "bryanhend98@gmail.com",
+  "age": 26
+},
+{
+  "_id": {
+    "$oid": "673304e7f4858343769b05f9"
+  },
+  "nij": 450238712,
+  "nama_lengkap": "Nicholas Martin Ong",
+  "tgl_lahir": {
+    "$date": "1999-06-23T17:00:00.000Z"
+  },
+  "no_telp": "082190147281",
+  "alamat": "Jln. Dukuh Kupang Barat No. 3",
+  "tgl_mulai_volunteer": {
+    "$date": "2023-11-03T17:00:00.000Z"
+  },
+  "email": "nicholasmartin24@gmail.com",
+  "age": 25
+},
+{
+  "_id": {
+    "$oid": "673304e7f4858343769b05fa"
+  },
+  "nij": 741846372,
+  "nama_lengkap": "Caroline Michelle Wijaya",
+  "tgl_lahir": {
+    "$date": "2005-12-29T00:00:00.000Z"
+  },
+  "no_telp": "081320191284",
+  "alamat": "Jln. Babatan Indah XII No. 28",
+  "tgl_mulai_volunteer": {
+    "$date": "2024-05-18T00:00:00.000Z"
+  },
+  "email": "carolinemichelle05@gmail.com",
+  "age": 19
+},
+{
+  "_id": {
+    "$oid": "673304e7f4858343769b05fb"
+  },
+  "nij": 28187292,
+  "nama_lengkap": "Kevin Julius Halim",
+  "tgl_lahir": {
+    "$date": "2002-10-21T00:00:00.000Z"
+  },
+  "no_telp": "085209261381",
+  "alamat": "Jln. Ahmad Yani No. 40, Wonokromo",
+  "tgl_mulai_volunteer": {
+    "$date": "2023-04-24T17:00:00.000Z"
+  },
+  "email": "kevinjulius2002@gmail.com",
+  "age": 22
+},
+{
+  "_id": {
+    "$oid": "6736cac17e7464e62afc3451"
+  },
+  "nij": 201204312,
+  "nama_lengkap": "Stephanie Chandra Wongso",
+  "tgl_lahir": {
+    "$date": "2001-08-30T00:00:00.000Z"
+  },
+  "no_telp": "082157291927",
+  "alamat": "Jln. Tunjungan No. 55, Genteng",
+  "tgl_mulai_volunteer": {
+    "$date": "2020-12-13T00:00:00.000Z"
+  },
+  "email": "stephaniechdr@gmail.com",
+  "age": 23,
+  "nif_penanggung_jawab": {
+    "$numberLong": "2532143214"
+  }
+},
+{
+  "_id": {
+    "$oid": "6736cad87e7464e62afc3452"
+  },
+  "nij": 192831030,
+  "nama_lengkap": "Joanne Susanto",
+  "tgl_lahir": {
+    "$date": "1999-02-26T17:00:00.000Z"
+  },
+  "no_telp": "082157291927",
+  "alamat": "Jln. Raya Darmo No. 16, Tegalsari",
+  "tgl_mulai_volunteer": {
+    "$date": "2023-08-04T00:00:00.000Z"
+  },
+  "email": "stephaniechdr@gmail.com",
+  "age": 25,
+  "nif_penanggung_jawab": {
+    "$numberLong": "2532143214"
+  }
+},
+{
+  "_id": {
+    "$oid": "6736cb487e7464e62afc3453"
+  },
+  "nij": 189413010,
+  "nama_lengkap": "Beatrice Karen Koesoema",
+  "tgl_lahir": {
+    "$date": "2006-01-11T17:00:00.000Z"
+  },
+  "no_telp": "085892728189",
+  "alamat": "Jln. Karang Rejo Sawah XII No. 30",
+  "tgl_mulai_volunteer": {
+    "$date": "2023-02-14T17:00:00.000Z"
+  },
+  "email": "beatrixxkaren@gmail.com",
+  "age": 18,
+  "nif_penangung_jawab": {
+    "$numberLong": "2532143214"
+  }
+},
+{
+  "_id": {
+    "$oid": "6736cb8c7e7464e62afc3454"
+  },
+  "nij": 100234912,
+  "nama_lengkap": "Jonathan Victor",
+  "tgl_lahir": {
+    "$date": "2004-03-22T17:00:00.000Z"
+  },
+  "no_telp": "082289380282",
+  "alamat": "Gg. Hikmah V No. 59e, Lontar",
+  "tgl_mulai_volunteer": {
+    "$date": "2024-02-13T17:00:00.000Z"
+  },
+  "email": "jonatvictorr2004@gmail.com",
+  "age": 20,
+  "nif_penanggung_jawab": {
+    "$numberLong": "1992907491"
+  }
+},
+{
+  "_id": {
+    "$oid": "6736cc577e7464e62afc3455"
+  },
+  "nij": 201401241,
+  "nama_lengkap": "Charlotte Josephine",
+  "tgl_lahir": {
+    "$date": "2002-11-24T00:00:00.000Z"
+  },
+  "no_telp": "082127517927",
+  "alamat": "Jln. Jetis Kulon IV No. 20",
+  "tgl_mulai_volunteer": {
+    "$date": "2022-04-20T17:00:00.000Z"
+  },
+  "email": "charlottephine22@gmail.com",
+  "age": 22,
+  "nif_penanggung_jawab": {
+    "$numberLong": "2532143214"
+  }
+},
+{
+  "_id": {
+    "$oid": "6736ccdb7e7464e62afc3456"
+  },
+  "nij": 106464348,
+  "nama_lengkap": "Eugene Shizuka Li",
+  "tgl_lahir": {
+    "$date": "2000-06-27T17:00:00.000Z"
+  },
+  "no_telp": "082283831538",
+  "alamat": "Jalan Raya Lontar No. 21, Sambikerep",
+  "tgl_mulai_volunteer": {
+    "$date": "2023-08-04T00:00:00.000Z"
+  },
+  "email": "eugeneshiz@gmail.com",
+  "age": 24,
+  "nif_penanggung_jawab": {
+    "$numberLong": "1992907491"
+  }
+},
+{
+  "_id": {
+    "$oid": "6736cdce7e7464e62afc3457"
+  },
+  "nij": 139463191,
+  "nama_lengkap": "Faith Adeline Cahyadi",
+  "tgl_lahir": {
+    "$date": "2000-04-14T17:00:00.000Z"
+  },
+  "no_telp": "082289491673",
+  "alamat": "Jl. Candi Lontar Gg. II, Sambikerep",
+  "email": "faithadln@gmail.com",
+  "age": 24,
+  "tgl_mulai_volunteer": {
+    "$date": "2022-09-09T17:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6736ce8a7e7464e62afc3458"
+  },
+  "nij": 105463138,
+  "nama_lengkap": "William Henry Cahyono",
+  "tgl_lahir": {
+    "$date": "2001-07-29T17:00:00.000Z"
+  },
+  "no_telp": "082281078362",
+  "alamat": "Jl. Ketintang Timur PTT III No. 12",
+  "tgl_mulai_volunteer": {
+    "$date": "2020-10-04T00:00:00.000Z"
+  },
+  "email": "williamhenry88@gmail.com",
+  "age": 23,
+  "nif_penanggung_jawab": {
+    "$numberLong": "1992907491"
+  }
+},
+{
+  "_id": {
+    "$oid": "6736cea07e7464e62afc3459"
+  },
+  "nij": 450931839,
+  "nama_lengkap": "Kartika Paramitha Ningsih",
+  "tgl_lahir": {
+    "$date": "1999-07-28T17:00:00.000Z"
+  },
+  "no_telp": "082190102931",
+  "alamat": "Graha Famili Orchid No. 9, Lidah Wetan",
+  "tgl_mulai_volunteer": {
+    "$date": "2022-09-09T17:00:00.000Z"
+  },
+  "email": "kartikaparamitha29@gmail.com",
+  "age": 25,
+  "nif_penanggung_jawab": {
+    "$numberLong": "1865257929"
+  }
+},
+{
+  "_id": {
+    "$oid": "6736cece7e7464e62afc345a"
+  },
+  "nij": 741849032,
+  "nama_lengkap": "Celine Natalie Kurniawan",
+  "tgl_lahir": {
+    "$date": "2004-06-02T17:00:00.000Z"
+  },
+  "no_telp": "081320878160",
+  "alamat": "Gg. Hikmah III No. 30, Lontar",
+  "tgl_mulai_volunteer": {
+    "$date": "2024-12-14T00:00:00.000Z"
+  },
+  "email": "celnatalie3604@gmail.com",
+  "age": 20,
+  "nif_penanggung_jawab": {
+    "$numberLong": "1865257929"
+  }
+},
+{
+  "_id": {
+    "$oid": "6736cef47e7464e62afc345b"
+  },
+  "nij": 59281093,
+  "nama_lengkap": "Kevin Miracle Hartono",
+  "tgl_lahir": {
+    "$date": "2000-01-15T17:00:00.000Z"
+  },
+  "no_telp": "085209104648",
+  "alamat": "Grand Harvest Rose Boulevard No. 12, Kebraon",
+  "tgl_mulai_volunteer": {
+    "$date": "2022-04-20T17:00:00.000Z"
+  },
+  "email": "miraclekev2000@gmail.com",
+  "age": 24,
+  "nif_penanggung_jawab": {
+    "$numberLong": "1865257929"
+  }
+},
+{
+  "_id": {
+    "$oid": "67382a8f5b0172ef2a6df561"
+  },
+  "nij": 20002336,
+  "nama_lengkap": "Cornelius Louis Nathan",
+  "tgl_lahir": {
+    "$date": "2004-12-30T17:00:00.000Z"
+  },
+  "no_telp": "082140041315",
+  "alamat": "Siwalankerto Permai III F-31",
+  "tgl_mulai_volunteer": {
+    "$date": "2023-10-01T17:00:00.000Z"
+  },
+  "email": "corneliuslouis3112@gmail.com",
+  "age": 20,
+  "nif_penanggung_jawab": {
+    "$numberLong": "2532143214"
+  }
+}]

@@ -1,0 +1,137 @@
+[{
+  "_id": {
+    "$oid": "673309ad2b94ccdfcac65a27"
+  },
+  "nif": 2079710,
+  "nama_lengkap": "Stephanie Jovita Tan",
+  "tgl_lahir": {
+    "$date": "1998-08-20T00:00:00.000Z"
+  },
+  "no_telp": "084375519804",
+  "alamat": "Jln. Raya Darmo No.90, Tegalsari",
+  "tgl_mulai_bekerja": {
+    "$date": "2020-10-06T00:00:00.000Z"
+  },
+  "email": "stepjoo999@gmail.com",
+  "age": 26
+},
+{
+  "_id": {
+    "$oid": "673309ad2b94ccdfcac65a28"
+  },
+  "nif": 2319413,
+  "nama_lengkap": "Christian Tekvi Aquaris",
+  "tgl_lahir": {
+    "$date": "2002-05-22T00:00:00.000Z"
+  },
+  "no_telp": "08934081098",
+  "alamat": "Jln. Dharmahusada III No.3, Tegalsari",
+  "tgl_mulai_bekerja": {
+    "$date": "2023-12-10T00:00:00.000Z"
+  },
+  "email": "christek22@gmail.com",
+  "age": 22
+},
+{
+  "_id": {
+    "$oid": "673309ad2b94ccdfcac65a29"
+  },
+  "nif": 1723859,
+  "nama_lengkap": "Michael Edwin Setiawan",
+  "tgl_lahir": {
+    "$date": "1995-07-13T17:00:00.000Z"
+  },
+  "no_telp": "081278965432",
+  "alamat": "Jln. Raya Darmo No.90, Tegalsari",
+  "tgl_mulai_bekerja": {
+    "$date": "2020-10-06T00:00:00.000Z"
+  },
+  "email": "michaeledwin95@gmail.com",
+  "age": 29
+},
+{
+  "_id": {
+    "$oid": "673309ad2b94ccdfcac65a2a"
+  },
+  "nif": 3071259,
+  "nama_lengkap": "Alexander Robin Wibisono",
+  "tgl_lahir": {
+    "$date": "1988-02-04T17:00:00.000Z"
+  },
+  "no_telp": "081234672819",
+  "alamat": "Jln. Diponegoro No. 37, Wonokromo",
+  "tgl_mulai_bekerja": {
+    "$date": "2021-03-17T17:00:00.000Z"
+  },
+  "email": "alexrobin88@gmail.com",
+  "age": 36
+},
+{
+  "_id": {
+    "$oid": "67330d4857b9defd5db3dd50"
+  },
+  "nif": 2532143,
+  "nama_lengkap": "Juvencius Titus Haryono",
+  "tgl_lahir": {
+    "$date": "1994-10-14T00:00:00.000Z"
+  },
+  "no_telp": "081275935017",
+  "alamat": "Citraland Blok GB No 1, Lakarsantri",
+  "tgl_mulai_bekerja": {
+    "$date": "2015-11-25T17:00:00.000Z"
+  },
+  "email": "juventus94@gmail.com",
+  "tanggung_jawab": [
+    20002336,
+    201401241,
+    189413010,
+    201204312,
+    192831030
+  ],
+  "age": 30
+},
+{
+  "_id": {
+    "$oid": "67330dff57b9defd5db3dd51"
+  },
+  "nif": 199290,
+  "nama_lengkap": "Novita Anny Susanto",
+  "tgl_lahir": {
+    "$date": "1987-03-08T17:00:00.000Z"
+  },
+  "no_telp": "085246149014",
+  "alamat": "Jln. Tunjungan No. 101, Genteng",
+  "tgl_mulai_bekerja": {
+    "$date": "2019-01-08T17:00:00.000Z"
+  },
+  "email": "novitamar9@gmail.com",
+  "tanggung_jawab": [
+    100234912,
+    106464348,
+    139463191,
+    105463138
+  ],
+  "age": 37
+},
+{
+  "_id": {
+    "$oid": "67330e3157b9defd5db3dd53"
+  },
+  "nif": 1865257,
+  "nama_lengkap": "Budi Renato",
+  "tgl_lahir": {
+    "$date": "1992-05-29T00:00:00.000Z"
+  },
+  "no_telp": "082415299478",
+  "alamat": "Jln. Jemursari III No 10, Jemursari",
+  "tgl_mulai_bekerja": {
+    "$date": "2018-07-15T17:00:00.000Z"
+  },
+  "email": "budirenato2905@gmail.com",
+  "tanggung_jawab": [
+    450931839,
+    741849032,
+    59281093
+  ],
+  "age": 32
+}]

@@ -1,0 +1,54 @@
+[{
+  "_id": {
+    "$oid": "676117149f981f569009851d"
+  },
+  "Tanggal Pelayanan": {
+    "$date": "2024-12-20T17:00:00.000Z"
+  },
+  "Direct Cam": "Juvencius Titus Haryono",
+  "Cam 1": "Cornelius Louis Nathan",
+  "Cam 2": "Charlotte Josephine",
+  "Cam 3": "Beatrice Karen Koesoema",
+  "Cam 4": "Stephanie Chandra Wongso",
+  "Cam 5": "Joanne Susanto",
+  "Cam 6": "Jonathan Victor",
+  "Cam 7": "Eugene Shizuka Li",
+  "Cam 8": "Faith Adeline Cahyadi",
+  "Cam 9": "William Henry Cahyono",
+  "TS Mainhall 1": "Kartika Paramitha Ningsih",
+  "TS Mainhall 2": "Celine Natalie Kurniawan",
+  "Direct IMAG": "Kevin Miracle Hartono",
+  "Resolume": "Bagus Dwi Wicaksono",
+  "Propress": "Michael Adrian Kurniawan",
+  "Direct Broadcast": "Olivia Christin Liem",
+  "Cam Broadcast": "Jason Nathaniel Wijaya",
+  "TS Broadcast 1": "Amanda Felicia Gunawan",
+  "TS Broadcast 2": "Steven Christoper Halim"
+},
+{
+  "_id": {
+    "$oid": "6762237c9f981f3ef8e918ff"
+  },
+  "Tanggal Pelayanan": {
+    "$date": "2024-12-27T17:00:00.000Z"
+  },
+  "Direct Cam": "Christian Tekvi Aquaris",
+  "Cam 1": "Alexander Robin Wibisono",
+  "Cam 2": "Jonathan Victor",
+  "Cam 3": "Faith Adeline Cahyadi",
+  "Cam 4": "Cornelius Louis Nathan",
+  "Cam 5": "Amanda Felicia Gunawan",
+  "Cam 6": "Jason Nathaniel Wijaya",
+  "Cam 7": "Kevin Julius Halim",
+  "Cam 8": "Kevin Miracle Hartono",
+  "Cam 9": "Stephanie Chandra Wongso",
+  "TS Mainhall 1": "Natasha Vania Tan",
+  "TS Mainhall 2": "Gabriel Daniel Hutomo",
+  "Direct IMAG": "Michael Edwin Setiawan",
+  "Resolume": "Charlotte Josephine",
+  "Propress": "Nicholas Martin Ong",
+  "Direct Broadcast": "Kevin Julius Halim",
+  "Cam Broadcast": "Gabriel Daniel Hutomo",
+  "TS Broadcast 1": "Olivia Christin Liem",
+  "TS Broadcast 2": "Kevin Julius Halim"
+}]

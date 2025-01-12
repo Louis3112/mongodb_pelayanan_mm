@@ -1,0 +1,80 @@
+[{
+  "_id": {
+    "$oid": "673312f857b9defd5db3dd5a"
+  },
+  "codename": "Display Resolume",
+  "application": [
+    "Resolume Arena 7.21.3",
+    "Vmix 26.8.0.31",
+    "TeraCopy 3.12"
+  ],
+  "monitor": "Apple Studio Display",
+  "cpu": "Prosesor Intel® Core™ i9-10900K",
+  "vga": [
+    "Nvidia Geforce RTX 4060 Ti",
+    "Radeon RX 7600"
+  ]
+},
+{
+  "_id": {
+    "$oid": "673313ed3fb98b3ffe53c5dc"
+  },
+  "codename": "Direct Cam",
+  "application": [
+    "Atem Mini Software Control",
+    "Vmix 26.8.0.31"
+  ],
+  "monitor": [
+    "Samsung 24 inch S31C 75Hz FHD IPS",
+    "Razer Raptor 27"
+  ],
+  "cpu": "Prosesor Intel® Core™ i7-8900K",
+  "vga": "Nvidia Geforce RX 7800 XT"
+},
+{
+  "_id": {
+    "$oid": "673313ed3fb98b3ffe53c5dd"
+  },
+  "codename": "Direct Broadcast",
+  "application": [
+    "Atem Mini Software Control",
+    "Vmix 26.8.0.31"
+  ],
+  "monitor": [
+    "Razer Raptor 27",
+    "ASUS VG259QM"
+  ],
+  "cpu": "Prosesor Intel® Core™ i7-8900K",
+  "vga": "Nvidia Geforce GTX 1650"
+},
+{
+  "_id": {
+    "$oid": "673313ed3fb98b3ffe53c5de"
+  },
+  "codename": "Direct IMAG",
+  "application": [
+    "Atem Mini Software Control",
+    "Vmix 26.8.0.31",
+    "AnyDesk 8.0.0"
+  ],
+  "monitor": "ASUS VG259QM",
+  "cpu": "AMD Ryzen™ 7 5800X",
+  "vga": "Nvidia Geforce GTX 1050 Ti"
+},
+{
+  "_id": {
+    "$oid": "673313ed3fb98b3ffe53c5df"
+  },
+  "codename": "Propress",
+  "application": [
+    "ProPresenter 16.1",
+    "Vmix 26.8.0.31",
+    "TeraCopy 3.12"
+  ],
+  "monitor": [
+    "Apple Live Studio",
+    "Apple Live Studio 2"
+  ],
+  "cpu": "Apple M2 Chip 8C",
+  "vga": "Integrated VGA"
+}]

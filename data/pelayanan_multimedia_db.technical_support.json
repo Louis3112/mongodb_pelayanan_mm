@@ -1,0 +1,48 @@
+[{
+  "_id": {
+    "$oid": "67331fbe8050c72a7732ac5d"
+  },
+  "codename": "TS Mainhall 1",
+  "posisi": "Mainhall",
+  "jobdesc": "Membantu setup camera 1,2,3,4"
+},
+{
+  "_id": {
+    "$oid": "67331fbe8050c72a7732ac5e"
+  },
+  "codename": "TS Mainhall 2",
+  "posisi": "Mainhall",
+  "jobdesc": "Membantu setup camera 5,6,7,8,9"
+},
+{
+  "_id": {
+    "$oid": "673320cc8050c72a7732ac5f"
+  },
+  "codename": "TS Mainhall 3",
+  "posisi": "Mainhall",
+  "jobdesc": "Membantu setup jalannya ibadah"
+},
+{
+  "_id": {
+    "$oid": "673320cc8050c72a7732ac60"
+  },
+  "codename": "TS Broadcast 1",
+  "posisi": "Broadcast",
+  "jobdesc": "Membantu setup camera broadcast"
+},
+{
+  "_id": {
+    "$oid": "673320cc8050c72a7732ac61"
+  },
+  "codename": "TS Broadcast 2",
+  "posisi": "Broadcast",
+  "jobdesc": "Membantu setup area broadcast"
+},
+{
+  "_id": {
+    "$oid": "673320cc8050c72a7732ac62"
+  },
+  "codename": "TS Broadcast 3",
+  "posisi": "Broadcast",
+  "jobdesc": "Mengatur arus traffic di sekitar broadcast"
+}]

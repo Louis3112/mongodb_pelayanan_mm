@@ -1,0 +1,212 @@
+[{
+  "_id": {
+    "$oid": "67331749b2c2bf7972507197"
+  },
+  "codename": "Cam 1",
+  "merek": "Sony",
+  "tipe": "A6700",
+  "lensa": "Sony FE 24-105mm F4 G OSS",
+  "ext": [
+    "Teradek Bolt 6 LT 750 3G-SDI",
+    "Gimbal Dji Ronin RS3",
+    "Holyland Mars T1000",
+    "Kabel HDMI to HDMI 30 Cm",
+    "SmallRig Universal Magic Arm with Small Ballhead 2157"
+  ],
+  "condition": "OK",
+  "category": "Cam Moving"
+},
+{
+  "_id": {
+    "$oid": "67331749b2c2bf7972507198"
+  },
+  "codename": "Cam 2",
+  "merek": "Sony",
+  "tipe": "A6700",
+  "lensa": "Sony FE 24-105mm F4 G OSS",
+  "ext": [
+    "Teradek Bolt 6 LT 750 3G-SDI",
+    "Gimbal Dji Ronin RS3",
+    "Holyland Mars T1000",
+    "Kabel HDMI to HDMI 30 Cm",
+    "SmallRig Universal Magic Arm with Small Ballhead 2157"
+  ],
+  "condition": "OK",
+  "category": "Cam Moving"
+},
+{
+  "_id": {
+    "$oid": "67331aa0b2c2bf7972507199"
+  },
+  "codename": "Cam 3",
+  "merek": "Sony",
+  "tipe": "A6700",
+  "lensa": "Sony FE 70-200 MM F2.8 GM OSS II",
+  "ext": [
+    "Teradek Bolt 6 LT 750 3G-SDI",
+    "Holyland Mars T1000",
+    "Kabel HDMI to HDMI 30 Cm",
+    "SmallRig Universal Magic Arm with Small Ballhead 2157"
+  ],
+  "condition": "OK",
+  "category": "Cam Moving"
+},
+{
+  "_id": {
+    "$oid": "67331aa0b2c2bf797250719a"
+  },
+  "codename": "Cam 4",
+  "merek": "Sony",
+  "tipe": "A6700",
+  "lensa": "Sony FE 70-200 MM F2.8 GM OSS II",
+  "ext": [
+    "Teradek Bolt 6 LT 750 3G-SDI",
+    "Holyland Mars T1000",
+    "Kabel HDMI to HDMI 30 Cm",
+    "SmallRig Universal Magic Arm with Small Ballhead 2157"
+  ],
+  "condition": "OK",
+  "category": "Cam Moving"
+},
+{
+  "_id": {
+    "$oid": "67331aa0b2c2bf797250719b"
+  },
+  "codename": "Cam 5",
+  "merek": "Sony",
+  "tipe": "A7C",
+  "lensa": "Sony FE 200-600mm F5.6-6.3 G OSS",
+  "ext": [
+    "Teradek Bolt 6 LT 750 3G-SDI",
+    "Holyland Mars T1000",
+    "Tripod NGPT002",
+    "Kabel HDMI to HDMI 30 Cm",
+    "SmallRig Universal Magic Arm with Small Ballhead 2157"
+  ],
+  "condition": "OK",
+  "Category": "Cam Table"
+},
+{
+  "_id": {
+    "$oid": "67331aa0b2c2bf797250719c"
+  },
+  "codename": "Cam 6",
+  "merek": "Sony",
+  "tipe": "A6000",
+  "lensa": "Sony FE 200-600mm F5.6-6.3 G OSS",
+  "ext": [
+    "Teradek Bolt 6 LT 750 3G-SDI",
+    "Holyland Mars T1000",
+    "Tripod NGPT002",
+    "Kabel HDMI to HDMI 30 Cm",
+    "SmallRig Universal Magic Arm with Small Ballhead 2157"
+  ],
+  "condition": "OK",
+  "Category": "Cam Table"
+},
+{
+  "_id": {
+    "$oid": "67331aa0b2c2bf797250719d"
+  },
+  "codename": "Cam 7",
+  "merek": "Sony",
+  "tipe": "A6000",
+  "lensa": "Sony FE 70-200 MM F2.8 GM OSS II",
+  "ext": [
+    "Teradek Bolt 6 LT 750 3G-SDI",
+    "Holyland Mars T1000",
+    "PROAIM Swift Camera Dolly Track",
+    "Kabel HDMI to HDMI 30 Cm",
+    "SmallRig Universal Magic Arm with Small Ballhead 2157"
+  ],
+  "condition": "OK",
+  "category": "Cam Moving"
+},
+{
+  "_id": {
+    "$oid": "67331aa0b2c2bf797250719e"
+  },
+  "codename": "Cam 8",
+  "merek": "Sony",
+  "tipe": "Camcorder MC2500",
+  "lensa": "Integated Lens",
+  "ext": [
+    "Teradek Bolt 6 LT 750 3G-SDI",
+    "Holyland Mars T1000",
+    "Jimmy Jib STANTON 12M",
+    "Kabel HDMI to HDMI 30 Cm",
+    "SmallRig Universal Magic Arm with Small Ballhead 2157"
+  ],
+  "condition": "Slightly Damaged",
+  "category": "Cam Moving"
+},
+{
+  "_id": {
+    "$oid": "67331aa0b2c2bf797250719f"
+  },
+  "codename": "Cam 9",
+  "merek": "Sony",
+  "tipe": "A6000",
+  "lensa": "Sony FE 24-105mm F4 G OSS",
+  "ext": [
+    "Teradek Bolt 6 LT 750 3G-SDI",
+    "\"Tripod NGPT002\"",
+    "Holyland Mars T1000",
+    "Kabel HDMI to HDMI 30 Cm",
+    "SmallRig Universal Magic Arm with Small Ballhead 2157"
+  ],
+  "condition": "OK",
+  "Category": "Cam Table"
+},
+{
+  "_id": {
+    "$oid": "67331aa0b2c2bf79725071a0"
+  },
+  "codename": "Cam Broadcast",
+  "merek": "Sony",
+  "tipe": "A6400",
+  "lensa": "Sony FE 24-105mm F4 G OSS",
+  "ext": [
+    "Teradek Bolt 6 LT 750 3G-SDI",
+    "Gimbal Dji Ronin RS3",
+    "Holyland Mars T1000",
+    "Tripod NGPT002",
+    "Gimbal Dji Ronin RS3",
+    "Kabel HDMI to HDMI 30 Cm",
+    "SmallRig Universal Magic Arm with Small Ballhead 2157"
+  ],
+  "condition": "OK"
+},
+{
+  "_id": {
+    "$oid": "67621fae9f981f3ef8e918fe"
+  },
+  "codename": "Cam Balkon",
+  "merek": "Sony",
+  "tipe": "A6700",
+  "lensa": "Sony FE 24-105mm F4 G OSS",
+  "ext": [
+    "Teradek Bolt 6 LT 750 3G-SDI",
+    "Gimbal Dji Ronin RS3",
+    "Holyland Mars T1000",
+    "Kabel HDMI to HDMI 30 Cm",
+    "SmallRig Universal Magic Arm with Small Ballhead 2157"
+  ],
+  "condition": "New",
+  "category": "New"
+},
+{
+  "_id": {
+    "$oid": "676232369f981f08e4562a79"
+  },
+  "codename": "Cam Balcony",
+  "merek": "Sony",
+  "tipe": "A6700",
+  "lensa": "Sony FE 24-105mm F4 G OSS",
+  "ext": [
+    "Gimbal Dji Ronin RS3",
+    "Holyland Mars T1000"
+  ],
+  "condition": "New",
+  "category": "Cam Moving"
+}]

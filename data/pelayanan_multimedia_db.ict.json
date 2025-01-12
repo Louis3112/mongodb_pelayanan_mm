@@ -1,0 +1,84 @@
+[{
+  "_id": {
+    "$oid": "67331ef3e80588ec6b22e7ac"
+  },
+  "codename": "BackEnd Dev 1",
+  "email": "budirenato2905@gmail.com",
+  "posisi": "BackEnd",
+  "bhs_pemrograman": [
+    "Java",
+    "JavaScript",
+    "PHP",
+    "GoLang",
+    "C++"
+  ],
+  "project": [
+    "Project Servolution",
+    "Project Followup"
+  ]
+},
+{
+  "_id": {
+    "$oid": "67331ef3e80588ec6b22e7ad"
+  },
+  "codename": "BackEnd Dev 2",
+  "email": "stepjoo999@gmail.com",
+  "posisi": "BackEnd",
+  "bhs_pemrograman": [
+    "Swift",
+    "GoLang",
+    "Ruby"
+  ],
+  "project": "Project Pro Teams"
+},
+{
+  "_id": {
+    "$oid": "67331ef3e80588ec6b22e7ae"
+  },
+  "codename": "FrontEnd Dev 1",
+  "email": "celnatalie3604@gmail.com",
+  "posisi": "FrontEnd",
+  "bhs_pemrograman": [
+    "JavaScript",
+    "PHP",
+    "Java",
+    "TypeScript"
+  ],
+  "project": "Project Web Gereja"
+},
+{
+  "_id": {
+    "$oid": "6760fe049f981f3c70e34bbf"
+  },
+  "codename": "BackEnd Dev 3",
+  "email": "corneliuslouis3112@gmail.com",
+  "posisi": "BackEnd",
+  "bhs_pemrograman": [
+    "C++",
+    "Java",
+    "Python",
+    "Kotlin",
+    "TypeScript"
+  ],
+  "project": [
+    "Project GMS App"
+  ]
+},
+{
+  "_id": {
+    "$oid": "676233269f981f08e4562a7a"
+  },
+  "codename": "BackEnd Dev 3",
+  "email": "corneliuslouis3112@gmail.com",
+  "posisi": "BackEnd",
+  "bhs_pemrograman": [
+    "Java",
+    "C++",
+    "JavaScript",
+    "Python",
+    "TypeScript"
+  ],
+  "project": [
+    "Project GMS App"
+  ]
+}]

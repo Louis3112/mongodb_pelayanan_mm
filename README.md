@@ -24,10 +24,11 @@ Tbh, i wanted to upgrade the project to include GUI for better experience. But, 
 ## :arrow_forward: **Installation and Usage** 
 To install this project, please proceed these steps:
 
-1. Clone the repository: **`git clone https://github.com/Louis3112/cs_finalproject_sem3`**
-2. Navigate to the project directory: **`cd cs_finalproject_sem3`**
-3. Install dependencies: **`mvn clean install `**
-4. Run the project with your IDE
+1. Clone the repository: **`git clone https://github.com/Louis3112/mongodb_pelayanan_mm`**
+2. Install dependencies: **`mvn clean install `**
+3. Navigate to the project directory: **`cd mongodb_pelayanan_mm/src`**
+4. Compile the project : **`javac main/java/com/example/Main.java`**
+5. Run the project : **`java main.java.com.example.Main`**
 
 ## 	:bust_in_silhouette: **Contributing** :bust_in_silhouette:
 If you'd like to contribute or upgrade the project, it would be my pleasure! :smile: 

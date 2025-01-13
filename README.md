@@ -19,6 +19,7 @@ The project is developed using Java, runs on CLI, and requires only a minimal se
 For further information, there is a report written in *Bahasa Indonesia* that you can read from.
 
 Tbh, i wanted to upgrade the project to include GUI for better experience. But, due to deadline and other commitments, i wasn't able to do that.
+*The main file is on src/main/java/com/example* (i wanted to move the folders, but afraid the program will error)
 
 ## :arrow_forward: **Installation and Usage** 
 To install this project, please proceed these steps:

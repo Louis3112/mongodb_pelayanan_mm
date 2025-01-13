@@ -22,13 +22,15 @@ Tbh, i wanted to upgrade the project to include GUI for better experience. But, 
 *The main file is on src/main/java/com/example* (i wanted to move the folders, but afraid the program will error)
 
 ## :arrow_forward: **Installation and Usage** 
-To install this project, please proceed these steps:
+To install this project, please proceed these steps (This step requires [mongo-java-driver-3.11.2.jar](https://repo1.maven.org/maven2/org/mongodb/mongo-java-driver/3.11.2/): 
 
 1. Clone the repository: **`git clone https://github.com/Louis3112/mongodb_pelayanan_mm`**
 2. Install dependencies: **`mvn clean install `**
 3. Navigate to the project directory: **`cd mongodb_pelayanan_mm/src`**
-4. Compile the project : **`javac main/java/com/example/Main.java`**
-5. Run the project : **`java main.java.com.example.Main`**
+4. Compile the project : **`javac -cp ".;path:\to\mongo-java-driver-3.11.2.jar" main/java/com/example/*.java`**
+5. Compile the Main.java : **`javac -cp ".;path:\to\mongo-java-driver-3.11.2.jar" main/java/com/example/Main.java`** (do this step if the main.java is still not compiled yet)
+6. Run the project : **`java -cp ".;path:\to\mongo-java-driver-3.11.2.jar" main.java.com.example.Main`**
+7. For simpler way, just run the project with your IDE :laughing:
 
 ## 	:bust_in_silhouette: **Contributing** :bust_in_silhouette:
 If you'd like to contribute or upgrade the project, it would be my pleasure! :smile: 

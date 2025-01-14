@@ -13,7 +13,7 @@ The project uses MongoDB as the database and includes 7 collection (folder) to m
 7. Serving Schedule *(Jadwal Pelayanan)*
 
 The project was inspired by my experience serving in Multimedia Ministry at my church. 
-All data (names, birthdates, addresses, emails, nif, nij, cameras, computers, etc) are entirely fictional and were also inspired by those experience.
+*All data (names, birthdates, addresses, emails, nif, nij, cameras, computers, etc) are entirely fictional and were also inspired by those experience.*
 
 The project is developed using Java, runs on CLI, and requires only a minimal set of packages to install.
 

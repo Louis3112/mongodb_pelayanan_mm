@@ -16,7 +16,9 @@ The project was inspired by my experience serving in Multimedia Ministry at my c
 All data (names, birthdates, addresses, emails, nif, nij, cameras, computers, etc) are entirely fictional and were also inspired by those experience.
 
 The project is developed using Java, runs on CLI, and requires only a minimal set of packages to install.
-For further information, there is a report written in *Bahasa Indonesia* that you can read from.
+
+For further information, there is a [report](https://github.com/user-attachments/files/18407245/PROYEK.STUDI.KASUS.SISTEM.INFORMASI.MANAJEMEN.PELAYANAN.MULTIMEDIA.DI.GEREJA.docx)
+written in *Bahasa Indonesia* and [UML](https://github.com/user-attachments/assets/98c25339-b100-43a4-8ba5-b176dd0eea98) that you can read from.
 
 Tbh, i wanted to upgrade the project to include GUI for better experience. But, due to deadline and other commitments, i wasn't able to do that.
 *The main file is on src/main/java/com/example* (i wanted to move the folders, but afraid the program will error)
